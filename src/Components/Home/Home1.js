@@ -42,6 +42,7 @@ class Home1 extends Component{
       const {Details,UserDetails,EmployeeDetails,DetailsArr }=this.state
         return(
             <div>
+                <p> hello welcome </p>
                 <Home2 passdata={DetailsArr}/>
                     
                    {/* {DetailsArr.map((res,index)=>(

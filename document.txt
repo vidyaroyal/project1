@@ -1,0 +1,8 @@
+==================install react globally
+> npm install -g create-react-app
+
+to create project
+>create-react-app projectName
+
+> go to the projectName then 
+> npm start
